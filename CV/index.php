@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cv</title>
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+    <div class="container">
+        <div class="word_split wrapper">
+            <span class="word word1">Abd-Ellah</span>
+            <span class="word word2">HIOUN</span>
+            <span class="word word3">Personal</span>
+            <span class="word word4">Details</span>
+
+            <span class="word word7">Education</span>
+            <span class="word word8">Personal</span>
+            <span class="word word9">Skills</span>
+            <span class="word word10">Technical</span>
+            <span class="word word11">Skills</span>
+            <span class="word word12">Get In</span>
+            <span class="word word13">Touch</span>
+
+            <div class="bubble bubble1">
+                <span class="the-arrow1"></span>
+                HI! <br/> I AM..
+            </div>
+            <div class="bubble bubble2">
+                <span class="the-arrow2"></span>
+                <img  src="pfp.png" alt="Profile Image"/>
+            </div>
+            <div class="bubble bubble3">
+                <span class="the-arrow3"></span>
+                <div class="p3">
+                NATIONALITY: French / Algerian<br/>
+                LOCATION: FRANCE - MARSEILLE<br/>
+                ADDRESS: 10 RUE LAUTARD 13003 MARSEILLE<br/>
+                BIRTHDAY: 09/04/2005<br/>
+                HOBBIES: Movies / Football<br/>
+            </div>
+            </div>
+            <div class="bubble bubble5">
+                <span class="the-arrow5"></span>
+                BAC - FOREIGN LANGUAGES<br/>
+                AFP "APPLE FONDATION PROGRAM" <br/>SIMPLON<br/>
+                DWWM "WEB DEVELOPER" <br/>LA PLATEFORME<br/>
+            </div>
+            <div class="bubble bubble6">
+                <span class="the-arrow6"></span>
+                SOCIAL COMMITMENT<br/>
+                ORGANIZATION<br/>
+                CREATIVITY<br/>
+                COMMUNICATION<br/>
+                TEAMWORK<br/>
+            </div>
+            <div class="bubble bubble7">
+                <span class="the-arrow7"></span>
+                PICTURE EDITING<br/>
+                CSS - HTML<br/>
+                PHP - SQL<br/>
+            </div>
+            <div class="bubble bubble8">
+                <span class="the-arrow8"></span>
+                PHONE: 0659854780<br/>
+                EMAIL: abd-ellah.hioun@laplateforme.io<br/>
+                WEBSITE: <a href="https://abd-ellah-hioun.students-laplateforme.io/" target="_blank">abd-ellah-hioun.students-laplateforme.io</a><br/>
+                INSTAGRAM: abdu_hdz<br/>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
