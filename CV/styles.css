@@ -54,7 +54,7 @@ html, body {
 }
 
 .bubble1 {
-  height: 75px;
+  height: 100px;
   width: 75px;
   background-color: #99C5DE;
   border-top-left-radius: 0;
@@ -80,7 +80,7 @@ html, body {
 }
 
 .bubble2 {
-  height: 150px;
+  height: 200px;
   width: 170px;
   background-color: #99C5DE;
   border-top-left-radius: 30px;
@@ -104,8 +104,8 @@ html, body {
 
 .bubble2 img {
   border-top-left-radius: 20px;
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 20px;
   border-top-right-radius: 0;
   background: white;
   display: block;
@@ -117,14 +117,20 @@ html, body {
   height: 200px;
   width: 250px;
   background-color: #90B2CB;
-  border-top-left-radius: 30px;
-  border-top-right-radius: 0;
-  border-bottom-right-radius: 30px;
-  border-bottom-left-radius: 0;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 30px;
   top: 183px;
   left: -280px;
-}
+  font-size: 1.3em;
+  line-height: 1.2;
+  margin-top: 10px;
 
+}
+.p3{
+    margin-bottom: 60px;
+}
 .bubble3 .the-arrow3 {
   display: inline-block;
   width: 0;
@@ -132,7 +138,7 @@ html, body {
   border-left: 20px solid transparent;
   border-bottom: 20px solid #90B2CB;
   position: absolute;
-  top: 0;
+  top: 180px;
   left: 250px;
   transform: rotate(180deg);
 }
@@ -168,7 +174,7 @@ html, body {
   border-top-right-radius: 0;
   border-bottom-right-radius: 30px;
   border-bottom-left-radius: 0;
-  top: 450px;
+  top: 430px;
   left: -280px;
 }
 
@@ -217,7 +223,7 @@ html, body {
   border-top-right-radius: 0;
   border-bottom-right-radius: 30px;
   border-bottom-left-radius: 0;
-  top: 675px;
+  top: 725px;
   left: -280px;
 }
 
