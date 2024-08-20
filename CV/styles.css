@@ -88,7 +88,7 @@ html, body {
   border-bottom-right-radius: 30px;
   border-bottom-left-radius: 0;
   top: 20px;
-  left: 100%;
+  left: 110%;
 }
 
 .bubble2 .the-arrow2 {
@@ -196,9 +196,9 @@ html, body {
   background-color: #8B8091;
   border-top-left-radius: 0;
   border-top-right-radius: 30px;
-  border-bottom-right-radius: 30px;
-  border-bottom-left-radius: 0;
-  top: 509px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 30px;
+  top: 490px;
   left: 280px;
   line-height: 1.8;
 }
